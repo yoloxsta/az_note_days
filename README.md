@@ -10,6 +10,10 @@
 | 06     | Azure SQL database    | RDS |
 | 07     | Azure DocumentDB   | DynamoDB |
 | 08     | Azure virtual Network   | VPC |
+| 09     | Azure Expressrouth   | AWS Direct Connect |
+| 10     | Azure Traffic Manager    | Routh53 |
+
+
 
 
 
