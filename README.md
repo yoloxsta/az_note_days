@@ -1,10 +1,10 @@
 ## Day01
 
-| Feature       | Description                 | Status  |
+| Number       | Description                 | Status  |
 |--------------|-----------------------------|---------|
-| Authentication | User login & registration  | ✅ Done |
-| API          | RESTful API endpoints        | ⚠️ In Progress |
-| Database     | MySQL database integration   | ❌ Not Started |
+| 01 | User login & registration  | ✅ Done |
+| 02          | RESTful API endpoints        | ⚠️ In Progress |
+| 03     | MySQL database integration   | ❌ Not Started |
 
 01. Which Azure service is designed to extend on-premises networks into the cloud securely?
       - VPN Gateway
