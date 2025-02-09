@@ -12,10 +12,11 @@
 | 08     | Azure virtual Network   | VPC |
 | 09     | Azure Expressrouth   | AWS Direct Connect |
 | 10     | Azure Traffic Manager    | Routh53 |
-
-
-
-
+| 11     | Azure AD   | IAM |
+| 12     | Application Gateway   | WAF |
+| 13     | Streaming Analytics   | Kinesis |
+| 14     | Resource Manager   | Cloudformation |
+| 15     | Event Grid   | Eventbridge |
 
 
 01. Which Azure service is designed to extend on-premises networks into the cloud securely?
