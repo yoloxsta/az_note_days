@@ -1,5 +1,10 @@
 ## Day01
 
+ | Number | Azure             | AWS
+ | 1      | Virtual Machine   | EC2
+ | 2      | Azure Function    | Lambda 
+ | 3      | Azure Autoscale   | Auto scaling
+
 01. Which Azure service is designed to extend on-premises networks into the cloud securely?
       - VPN Gateway
 
