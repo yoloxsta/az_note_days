@@ -1,10 +1,10 @@
 ## Day01
 
-| Number       | Description                 | Status  |
+| Number       | Azure                | AWS  |
 |--------------|-----------------------------|---------|
-| 01 | User login & registration  | ✅ Done |
-| 02          | RESTful API endpoints        | ⚠️ In Progress |
-| 03     | MySQL database integration   | ❌ Not Started |
+| 01 | VM  | EC2 |
+| 02          | Azure Function        | Lambda |
+| 03     | Azure Blob Storage   | S3 |
 
 01. Which Azure service is designed to extend on-premises networks into the cloud securely?
       - VPN Gateway
