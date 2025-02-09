@@ -5,6 +5,14 @@
 | 01 | VM  | EC2 |
 | 02          | Azure Function        | Lambda |
 | 03     | Azure Blob Storage   | S3 |
+| 04     | Azure Managed Storage   | Elastic block Storage |
+| 05     | Azure CDN   | Cloudfront |
+| 06     | Azure SQL database    | RDS |
+| 07     | Azure DocumentDB   | DynamoDB |
+| 08     | Azure virtual Network   | VPC |
+
+
+
 
 01. Which Azure service is designed to extend on-premises networks into the cloud securely?
       - VPN Gateway
