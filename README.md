@@ -24,4 +24,4 @@
 
 05. An Azure Storage Account provides a unique namespace for your Azure Storage data, accessible from anywhere in the world over HTTP or HTTPS. It acts as a container for storing your data objects such as blobs, files, queues, tables, and disks.
 
-06. 
+## IAS
