@@ -6,3 +6,7 @@
 02. Azure App Services is primarily used for:
       - Hosting Web App
 
+03. ExpressRoute allows you to:
+      - create private connections between Azure data centers and infrastructure that's on your premises or in a colocation environment without going over the public internet, offering more reliability, faster speeds, and lower latencies
+
+### Storage
