@@ -18,6 +18,7 @@
 | 14     | Resource Manager   | Cloudformation |
 | 15     | Event Grid   | Eventbridge |
 | 16     | Azure Virtual WAN   | Transit Gateway |
+| 17     | Codebuild, Codedeploy   | Azure DevOps |
 
 01. Which Azure service is designed to extend on-premises networks into the cloud securely?
       - VPN Gateway
