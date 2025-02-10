@@ -17,7 +17,7 @@
 | 13     | Streaming Analytics   | Kinesis |
 | 14     | Resource Manager   | Cloudformation |
 | 15     | Event Grid   | Eventbridge |
-
+| 16     | Azure Virtual WAN   | Transit Gateway |
 
 01. Which Azure service is designed to extend on-premises networks into the cloud securely?
       - VPN Gateway
