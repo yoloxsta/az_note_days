@@ -47,3 +47,7 @@
 
 01. Azure AD B2B (Business-to-Business) collaboration is designed to allow businesses to securely share their applications and resources with guest users from any other organization, leveraging their own identities.
     Azure AD B2C (Business-to-Consumer), on the other hand, provides identity and access management solutions specifically designed for customer-facing applications, supporting a variety of identity providers.
+
+02. Defense in depth is a comprehensive approach to cybersecurity that layers multiple security measures to protect resources, including physical security, identity and access management, perimeter security, network security, and data security practices.
+
+03. The Zero Trust security model assumes breach and verifies each request as though it originates from an open network. Regardless of where the request originates or what resource it accesses, the Zero Trust principle "never trust, always verify" is applied.
