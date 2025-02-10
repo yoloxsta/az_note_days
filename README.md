@@ -44,3 +44,6 @@
 05. An Azure Storage Account provides a unique namespace for your Azure Storage data, accessible from anywhere in the world over HTTP or HTTPS. It acts as a container for storing your data objects such as blobs, files, queues, tables, and disks.
 
 ## IAS
+
+01. Azure AD B2B (Business-to-Business) collaboration is designed to allow businesses to securely share their applications and resources with guest users from any other organization, leveraging their own identities.
+    Azure AD B2C (Business-to-Consumer), on the other hand, provides identity and access management solutions specifically designed for customer-facing applications, supporting a variety of identity providers.
