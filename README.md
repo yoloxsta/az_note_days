@@ -53,4 +53,4 @@
 
 03. The Zero Trust security model assumes breach and verifies each request as though it originates from an open network. Regardless of where the request originates or what resource it accesses, the Zero Trust principle "never trust, always verify" is applied.
 
-#
+## Day-02
