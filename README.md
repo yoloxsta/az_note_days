@@ -18,7 +18,7 @@
 | 14     | Resource Manager   | Cloudformation |
 | 15     | Event Grid   | Eventbridge |
 | 16     | Azure Virtual WAN   | Transit Gateway |
-| 17     | Codebuild, Codedeploy   | Azure DevOps |
+| 17     | Azure DevOps  | Codebuild, Codedeploy  |
 
 01. Which Azure service is designed to extend on-premises networks into the cloud securely?
       - VPN Gateway
@@ -65,4 +65,21 @@
 
 - Point-to-Site VPN connections can be used to establish connectivity from remote workstations or clients to Azure virtual network
 
-- 
+- The hybrid cloud model combines public and private clouds, allowing data and applications to be shared between them. This model is ideal for businesses that need both customization and control offered by private clouds, along with the scalability of public cloud services.
+
+- Azure Management Groups provide a level of scope above subscriptions, allowing users to efficiently manage access, policy, and compliance across multiple subscriptions.
+
+- Microsoft Purview offers a unified data governance service that helps organizations manage, govern, and protect their data across enterprise systems and applications.
+
+- Azure Tags allow users to organize resources by assigning metadata to resources in the form of tags, which can be used to categorize resources for clarity and billing purposes.
+
+- Azure ExpressRoute lets you create private connections between Azure data centers and infrastructure on your premises or in a colocation environment. These connections do not go over the public internet and offer more reliability, faster speeds, lower latencies, and higher security than typical connections.
+
+- Azure Government is dedicated for US government entities and contractors.
+
+- Azure Availability Zones are unique physical locations within an Azure region. Each zone is made up of one or more data centers equipped with independent power, cooling, and networking. They are set up to provide redundancy and high availability within the region.
+
+- Platform as a Service (PaaS) provides customers with a platform allowing them to develop, run, and manage applications without the complexity associated with maintaining the infrastructure typically required to develop and launch an app.
+
+- Azure Data Box services are designed to transfer large amounts of data to Azure securely and efficiently, especially useful when network transfer is not viable.
+
