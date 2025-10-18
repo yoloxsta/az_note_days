@@ -57,3 +57,12 @@
 
 - In Azure Virtual Networks, subnets allow administrators to segment the virtual network into one or more sub-networks, providing organized and enhanced control of network traffic.
 
+- Azure Container Instances offers the simplest and easiest way to deploy containers in Azure. Other container solutions are considered if you need orchestration capabilities.
+
+- Azure Regions and Region Pairs optimize application performance and user experience by hosting applications closer to users, reducing network latency.
+
+- Azure Bicep is an Infrastructure-as-Code solution that can be used to deploy identical resources programmatically.
+
+- Point-to-Site VPN connections can be used to establish connectivity from remote workstations or clients to Azure virtual network
+
+- 
