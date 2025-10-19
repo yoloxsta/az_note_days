@@ -105,6 +105,10 @@
 
 - Azure Advisor helps you optimize and reduce your overall Azure spend by identifying idle and underutilized resources. You can get cost recommendations from the Cost tab on the Advisor dashboard.
 
+- A PowerShell script is a file that contains PowerShell cmdlets and code. A PowerShell script needs to be run in PowerShell. In Options C and D, there is no mention of PowerShell installation. Without PowerShell installed, you can’t run PowerShell scripts.
+
+
+
 
 
 
