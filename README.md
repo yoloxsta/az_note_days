@@ -83,3 +83,9 @@
 
 - Azure Data Box services are designed to transfer large amounts of data to Azure securely and efficiently, especially useful when network transfer is not viable.
 
+- You can download compliance related documents from Service Trust Portal.
+
+- A Site-to-Site VPN gateway connection is used to connect your on-premises network to an Azure virtual network over an IPsec/IKE (IKEv1 or IKEv2) VPN tunnel. This type of connection requires a VPN device located on-premises that has an externally facing public IP address assigned to it.
+
+- 
+
