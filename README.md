@@ -87,5 +87,25 @@
 
 - A Site-to-Site VPN gateway connection is used to connect your on-premises network to an Azure virtual network over an IPsec/IKE (IKEv1 or IKEv2) VPN tunnel. This type of connection requires a VPN device located on-premises that has an externally facing public IP address assigned to it.
 
-- 
+- Azure Service Health provides a personalized view of the health of the Azure services and regions you're using. This is the best place to look for service impacting communications about outages, planned maintenance activities, and other health advisories because the authenticated Service Health experience knows which services and resources you currently use.
+
+- The Android tablet device will have a web browser (say Chrome). That’s enough to connect to the Azure portal. The Azure portal offers three ways to create a VM:
+
+-Using the graphical portal
+
+-Using the Azure Cloud Shell using Bash 
+
+-Using the Azure Cloud Shell using PowerShell
+
+- The central feature in Defender for Cloud that enables you to achieve those goals is secure score.
+
+- We can configure alerts based on the Activity Log. Service Health Alerts cannot notify any user-initiated events.
+
+- Microsoft Defender for Cloud is a unified infrastructure security management system that strengthens the security posture of your data centers and provides advanced threat protection across your hybrid workloads in the cloud – whether they're in Azure or not – as well as on premises.
+
+- Azure Advisor helps you optimize and reduce your overall Azure spend by identifying idle and underutilized resources. You can get cost recommendations from the Cost tab on the Advisor dashboard.
+
+
+
+
 
