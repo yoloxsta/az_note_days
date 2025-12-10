@@ -96,7 +96,7 @@
 -Using the Azure Cloud Shell using Bash 
 
 -Using the Azure Cloud Shell using PowerShell
-
+#
 - The central feature in Defender for Cloud that enables you to achieve those goals is secure score.
 
 - We can configure alerts based on the Activity Log. Service Health Alerts cannot notify any user-initiated events.
