@@ -107,7 +107,6 @@
 
 - A PowerShell script is a file that contains PowerShell cmdlets and code. A PowerShell script needs to be run in PowerShell. In Options C and D, there is no mention of PowerShell installation. Without PowerShell installed, you can’t run PowerShell scripts.
 
-
 - You can download compliance related documents from Service Trust Portal.
 
 
