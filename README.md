@@ -110,6 +110,10 @@
 
 - You can download compliance related documents from Service Trust Portal.
 
+- Azure resources can have multiple delete and read-only locks.
+
+
+
 
 
 
