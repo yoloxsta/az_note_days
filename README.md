@@ -89,7 +89,6 @@
 
 - Azure Service Health provides a personalized view of the health of the Azure services and regions you're using. This is the best place to look for service impacting communications about outages, planned maintenance activities, and other health advisories because the authenticated Service Health experience knows which services and resources you currently use.
   
-#
 - The Android tablet device will have a web browser (say Chrome). That’s enough to connect to the Azure portal. The Azure portal offers three ways to create a VM:
 
 -Using the graphical portal
