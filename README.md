@@ -115,6 +115,7 @@
 
 - Each Azure region is always paired with another region within the same geography, such as US, Europe, or Asia, at least 300 miles away.
 
+- Region pairs allow the replication of Azure resources across geographies to help ensure that a secondary region is available in case of any disaster at the primary region.
 
 
 
