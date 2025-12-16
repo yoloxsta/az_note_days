@@ -111,6 +111,8 @@
 
 - Azure resources can have multiple delete and read-only locks.
 
+- Resource tags can be used to group billing data and categorize costs by runtime environment, such as billing usage for virtual machines running in a production environment.
+
 
 
 
