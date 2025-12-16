@@ -113,6 +113,7 @@
 
 - Resource tags can be used to group billing data and categorize costs by runtime environment, such as billing usage for virtual machines running in a production environment.
 
+- Each Azure region is always paired with another region within the same geography, such as US, Europe, or Asia, at least 300 miles away.
 
 
 
