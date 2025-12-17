@@ -117,6 +117,9 @@
 
 - Region pairs allow the replication of Azure resources across geographies to help ensure that a secondary region is available in case of any disaster at the primary region.
 
+- By using ARM templates, you can describe the resources you want to use in a declarative JSON format.
+
+
 
 
 
