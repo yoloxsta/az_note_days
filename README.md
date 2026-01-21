@@ -53,7 +53,6 @@
 03. The Zero Trust security model assumes breach and verifies each request as though it originates from an open network. Regardless of where the request originates or what resource it accesses, the Zero Trust principle "never trust, always verify" is applied.
 
 ## Exam Prepare
-
 - In Azure Virtual Networks, subnets allow administrators to segment the virtual network into one or more sub-networks, providing organized and enhanced control of network traffic.
 
 - Azure Container Instances offers the simplest and easiest way to deploy containers in Azure. Other container solutions are considered if you need orchestration capabilities.
