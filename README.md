@@ -118,6 +118,8 @@
 
 - By using ARM templates, you can describe the resources you want to use in a declarative JSON format.
 
+## ACI vs ACA
+- https://medium.com/@ajayverma23/azure-container-services-a-comprehensive-guide-to-azure-container-instances-aci-and-azure-49e8eee2f1ac
 
 
 
