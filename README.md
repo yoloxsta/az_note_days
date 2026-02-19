@@ -30,6 +30,7 @@
       - create private connections between Azure data centers and infrastructure that's on your premises or in a colocation environment without going over the public internet, offering more reliability, faster speeds, and lower latencies
 
 ### Storage
+
 01. Azure Migrate primarily assists organizations in:
       - Migrating on-premises servers,app,data and workloads to azure
 
